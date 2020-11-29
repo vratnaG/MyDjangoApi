@@ -1,4 +1,6 @@
 Django
+djangorestframework
+drf-yasg
 django-mongodb-engine
 djangotoolbox
 djongo
